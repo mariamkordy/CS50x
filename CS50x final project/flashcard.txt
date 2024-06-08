@@ -1,0 +1,13 @@
+functions:
+1-login
+input:username,password
+output:redirect to homepage
+
+
+
+
+2-logout
+3-register
+4-generate flashcard
+5-edit flashcard
+6-delete flashcard
